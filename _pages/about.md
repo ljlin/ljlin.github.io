@@ -38,7 +38,7 @@ Publications
 Thesis
 ======
 * Translating LTL to FDFA and FDFA Model Checking. \
-  Jianlin Li. Bachelor’s thesis.
+  Jianlin Li. Bachelor’s thesis. \
   Nanjing University of Aeronautics and Astronautics, 2018.
   
 Talks
