@@ -17,27 +17,27 @@ Education
 Publications
 ======
 
-1. Analyzing deep neural networks with symbolic propagation: Towards higher precision and faster verification.\
+1. Analyzing Deep Neural Networks With Symbolic Propagation: Towards Higher Precision and Faster Verification. \
    **Jianlin Li**, Jiangchao Liu, Pengfei Yang, Liqian Chen, Xiaowei Huang, and Lijun Zhang.\
    [SAS 2019](https://staticanalysis.org/sas2019/) [\[paper\]](files/sas19.pdf)
 
-2. Renjue Li, **Jianlin Li**, Cheng-Chao Huang, Pengfei Yang, Xiaowei Huang, Lijun Zhang, Bai Xue, and Holger Hermanns.\
-   PROdeep: a platform for robustness verification of deep neuralnetworks. \
+2. PRODeep: A Platform for Robustness Verification of Deep Neural Networks. \
+   Renjue Li, **Jianlin Li**, Cheng-Chao Huang, Pengfei Yang, Xiaowei Huang, Lijun Zhang, Bai Xue, and Holger Hermanns.\
    [ESEC/FSE 2020](https://2020.esec-fse.org/) [\[video\]](https://www.youtube.com/watch?v=Nu-iQkJXmeM)
 
-3. Verifying probabilistic timed automata against omega-regular dense-time properties.\
+3. Verifying Probabilistic Timed Automata Against $\omega$-regular Dense-Time Properties.\
    Hongfei Fu, Yi Li, and **Jianlin Li**.\
    [QEST 2018](https://www.qest.org/qest2018/)
 
 Thesis
 ======
-* Jianlin Li. Bachelor’s thesis.
-  Translating ltl to fdfa and fdfa model checking.\ 
+* Translating LTL to FDFA and FDFA Model Checking. \
+  Jianlin Li. Bachelor’s thesis.
   Nanjing University of Aeronautics and Astronautics, 2018.
   
 Talks
 ======
-* Analyzing deep neural networks with symbolic propagation: Towards higher precision and faster verification.\
+* Analyzing Deep Neural Networks With Symbolic Propagation: Towards Higher Precision and Faster Verification.\
   In 26th Static Analysis Symposium, SAS 2019, Porto, Portugal, October, 2019, 
 
   
