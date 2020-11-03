@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -99,7 +99,7 @@ author:
   github           : "ljlin"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/jianlin.xf/"
+  instagram        : "jianlin.xf"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
