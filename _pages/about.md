@@ -8,6 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+I am a third-year MSc student in CS at the University of Chinese Academy of Sciences and Saarland University. [\[CV\]](/files/CV_Jianlin_Li.pdf)
+
+Research interests
+======
+I am generally interested in theorem proving and code-level verification of real-world software and theorem proving, such as certified system software, concurrent separation logic, and Coq.
+
 Education
 ======
 * Master in Computer Science, University of Chinese Academy of Sciences, 2021 (expected)
@@ -40,8 +46,19 @@ Talks
 * Analyzing Deep Neural Networks With Symbolic Propagation: Towards Higher Precision and Faster Verification.\
   In 26th Static Analysis Symposium, SAS 2019, Porto, Portugal, October, 2019, 
 
-  
 Service
 ======
 * Sub-Reviewer. LICS 2018. TASE 2019. FM 2019. FMAC 2019. TACAS 2021.
-* Student Volunteer. [CONCUR 2018](http://confesta2018.csp.escience.cn/), SSFM [2018](http://lcs.ios.ac.cn/ssfm/ssfm2018/index.html), [2019](http://lcs.ios.ac.cn/ssfm/). [LICS 2020](https://lics2020.saarland-informatics-campus.de/), 
+* Student Volunteer. [CONCUR 2018](http://confesta2018.csp.escience.cn/), SSFM [2018](http://lcs.ios.ac.cn/ssfm/ssfm2018/index.html), [2019](http://lcs.ios.ac.cn/ssfm/). [LICS 2020](https://lics2020.saarland-informatics-campus.de/).
+
+
+Course Projects
+======
+* Generalized Minsky machine halting $\preccurlyeq_m$ 2 counter machine halting in Coq.
+* C(resp. Java)interprocedural points-to analysis in LLVM(resp. Soot).
+* xv6 programming projects for OS.
+* 5 stage pipelined MIPS-32 processor [\[Verilog Code\]](https://github.com/ljlin/MIPS48PipelineCPU/tree/master/src).
+
+Personal
+======
+I shoot landscapes, street photography, and portraits of friends in my spare time. [\[Gallery\]](https://500px.com/p/vcg-ljlin)
