@@ -30,8 +30,12 @@ Publications
 2. PRODeep: A Platform for Robustness Verification of Deep Neural Networks. \
    Renjue Li, **Jianlin Li**, Cheng-Chao Huang, Pengfei Yang, Xiaowei Huang, Lijun Zhang, Bai Xue, and Holger Hermanns.\
    [ESEC/FSE 2020](https://2020.esec-fse.org/) [\[video\]](https://www.youtube.com/watch?v=Nu-iQkJXmeM)
+   
+3. Improving Neural Network Verification through Spurious Region Guided Refinement. \
+   Pengfei Yang, Renju eLi, **Jianlin Li**, Cheng-Chao Huang, Jingyi Wang, Jun Sun, Bai Xue, and Lijun Zhang.\
+   [TACAS 2021](https://etaps.org/user-profile/archive/51-etaps-2021/450-tacas-2021-accepted-papers)
 
-3. Verifying Probabilistic Timed Automata Against $\omega$-regular Dense-Time Properties.\
+4. Verifying Probabilistic Timed Automata Against $\omega$-regular Dense-Time Properties.\
    Hongfei Fu, Yi Li, and **Jianlin Li**.\
    [QEST 2018](https://www.qest.org/qest2018/)
 
