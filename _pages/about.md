@@ -24,7 +24,10 @@ Education
 Publications
 ======
 
-1. Automated Safety Verification of Programs Invoking Neural Networks. \
+1. Type-Preserving, Dependence-Aware Guide Generation for Sound, Effective Amortized Probabilistic Inference. \
+   **Jianlin Li**, Leni Ven, Pengyuan Shi, and Yizhou Zhang. \
+   POPL 2023 (to appear)
+3. Automated Safety Verification of Programs Invoking Neural Networks. \
    Maria Christakis, Hasan Ferit Eniser, Holger Hermanns, Jörg Hoffmann, Yugesh Kothari, **Jianlin Li**, Jorge A. Navas, Valentin Wüstholz. \
    CAV 2021  [\[paper\]](https://link.springer.com/chapter/10.1007/978-3-030-81685-8_9)
 3. Improving Neural Network Verification through Spurious Region Guided Refinement. \
