@@ -8,6 +8,14 @@ redirect_from:
   - /about.html
 ---
 
+New Homepage
+======
+
+***https://jianlin-herman-li.github.io/***
+
+Old Homepage
+=====
+
 I am a Ph.D student at [PLG](https://plg.uwaterloo.ca/), University of Waterloo (started from Fall 2021). I am co-supervised by [Ondřej Lhoták](https://plg.uwaterloo.ca/~olhotak/) and [Yizhou Zhang](https://cs.uwaterloo.ca/~yizhou/). 
 
 Research interests
