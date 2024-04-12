@@ -11,7 +11,7 @@ redirect_from:
 New Homepage
 ======
 
-***https://jianlin-herman-li.github.io/***
+**https://jianlin-herman-li.github.io/**
 
 Old Homepage
 =====
